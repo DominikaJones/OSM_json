@@ -1,0 +1,2 @@
+place_id,licence,osm_type,osm_id,boundingbox,lat,lon,display_name,class,type,importance,icon
+158594,"Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",node,29941752,"['42.914761', '43.234761', '-89.5437613', '-89.2237613']",43.074761,-89.3837613,"Madison, Dane County, Wisconsin, 53703, United States",place,city,0.79643378870957,https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png

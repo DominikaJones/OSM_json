@@ -1,0 +1,2 @@
+place_id,licence,osm_type,osm_id,boundingbox,lat,lon,display_name,class,type,importance,icon
+341553,"Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",node,151323600,"['31.5593328', '31.5993328', '-91.501785', '-91.461785']",31.5793328,-91.481785,"Minorca, Concordia Parish, Louisiana, 71373, United States",place,hamlet,0.45,https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png

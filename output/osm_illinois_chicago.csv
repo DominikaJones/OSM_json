@@ -1,0 +1,2 @@
+place_id,licence,osm_type,osm_id,boundingbox,lat,lon,display_name,class,type,importance,icon
+309305703,"Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",relation,122604,"['41.644531', '42.0230396', '-87.940101', '-87.5240812']",41.8755616,-87.6244212,"Chicago, Cook County, Illinois, United States",boundary,administrative,0.9515295727100248,https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png

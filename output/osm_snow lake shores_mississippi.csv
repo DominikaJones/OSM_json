@@ -1,0 +1,2 @@
+place_id,licence,osm_type,osm_id,boundingbox,lat,lon,display_name,class,type,importance,icon
+98642646,"Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",way,32949744,"['34.815092', '34.830939', '-89.246643', '-89.227273']",34.824539,-89.2395159,"Snow Lake Shores, Benton County, Mississippi, United States",boundary,administrative,0.7335327307304577,https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
