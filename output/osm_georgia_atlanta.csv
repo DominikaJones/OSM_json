@@ -1,0 +1,2 @@
+place_id,licence,osm_type,osm_id,boundingbox,lat,lon,display_name,class,type,importance,icon
+257814846,"Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",relation,119557,"['33.647808', '33.886823', '-84.551068', '-84.28956']",33.7489924,-84.3902644,"Atlanta, Fulton County, Georgia, United States",boundary,administrative,0.8908028207926617,https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
